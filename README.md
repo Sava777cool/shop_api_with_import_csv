@@ -1,5 +1,7 @@
 This small project is needed to simplify the entry of user data into the database through the import of csv files.
 
+After installing all the components and starting the server, you can start working.
+
 1. To start you need to go to the address http://127.0.0.1:8000/admin
 For authorization enter login and password (look setub.mb)
 2. To import csv, go http://127.0.0.1:8000/admin/shop/customer/
