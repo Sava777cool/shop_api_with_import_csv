@@ -7,7 +7,11 @@ After we have cloned and unpacked our project
 3. Create a virtual environment: virtualenv venv
 4. Activate venv: source venv/bin/activate / venv/bin/activate (for windows)
 5. So now we can install other program packages in command line / terminal enter: pip install pip install -r requirements.txt
-6. Then open the browser and enter the address http://127.0.0.1:8000/admin
+
+When the installation process is complete. We can run server.
+1. Let's go to the directory with the project: cd car_park_api
+2. Enter: python manage.py runserver
+7. Then open the browser and enter the address http://127.0.0.1:8000/admin
 for login enter:
 login: admin
 password: admin1234!
